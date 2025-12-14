@@ -1,0 +1,5 @@
+{
+  "name": "Simple React Calculator",
+  "description": "A clean, beginner-friendly calculator application capable of performing basic arithmetic operations with error handling.",
+  "requestFramePermissions": []
+}
